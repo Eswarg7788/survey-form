@@ -1,0 +1,69 @@
+.acquios{
+    border: 1px solid rgb(218, 224, 224);
+    width: 400px;
+    background-color: rgb(201, 217, 217);
+    height: 600px;
+}
+.cx{
+    width: 100px;
+    margin-left: 125px;
+    margin-top: 20px;
+
+}
+.ev{
+    margin-left: 20px;
+}
+.ee{
+    margin-left: 95px;
+}
+.vv,.ve{
+    width: 155px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.ws{
+    width: 325px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.eo{
+    margin-left: 20px;
+    position: relative;
+    top: 20px;
+}
+.checked {
+    position: relative;
+    color: orange;
+    width: 30px;
+  }
+.nn{
+    position: relative;
+    top: 40px;
+    left: 20px;
+    
+}
+.row1{
+    position: relative;
+    left:150px;
+    bottom: 120px;
+}
+.row{
+    position: relative;
+    left: 20px;
+    top: 30px;
+    font-size: 20px;
+}
+.ww{
+    background-color: orangered;
+    color: aliceblue;
+    border-radius: 10px;
+    position: relative;
+    right: 20px;;
+    height: 40px;
+    width: 350px;
+    margin-left: 50px;
+}
+.su{
+    margin-left: 450px;
+    margin-top: 20px;
+}
